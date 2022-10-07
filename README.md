@@ -8,12 +8,17 @@
 ![image](https://user-images.githubusercontent.com/70578021/194561828-032f47fa-e33a-42b1-a6e0-a00946159f8d.png)
 
 KPMG_Australia_DataConsulting_VInternship_OPen Source
+
 1| Data Quality Assessment In this phase, I performed data quality assessment using standard Quality Dimensions: Accuracy, Completeness, Consistency, Currency, Relevancy, Validity, Relevancy. Programming Environment : Python3 IDE : Jupyter Notebook,
 Libraries: Pandas, NumPy, Matplotlib, xlrd
+
 2| Data Insights In this phase I was involved in preparing a detailed approach for completing the analysis including understanding the data distributions, feature engineering, data transformations, modeling, results interpretation, and reporting.
+
 The most amazing phase in which, I performed R(Recency), F(Frequency), M(Monetary) analysis for customer segmentation. The advantages of RFM is that it is easy to implement and it can be used for different types of business. It will help craft better marketing campaigns and improves CRM and customer's loyalty for KPMG’s customer portfolio. Programming Environment : Python3 IDE : Jupyter Notebook,
 Libraries: Pandas, NumPy, Matplotlib, xlrd, datetime
 Other Tools: MS Excel2019, MS PowerPoint2019
+
+
 3| Data Insights and Presentation
 In this phase I was involved in developing a dashboard that we can present to the client to display the data summary and results of the analysis (trends, customer segment outcome, proposals for marketing strategy)) using MS Excel2019.
 (Things I should improve: Data Visualization using Tableau as an alternate tool)
