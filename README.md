@@ -1,4 +1,4 @@
-# KPMG_Australia_DataConsulting_OpenSourceProject
+# KPMG_Australia_DataConsulting_OpenSourceInternshipProject
  KPMG Virtual Internship with The Innovation and Digital Solutions Division of KPMG Australia, in association InsideSherpa.
 
 
